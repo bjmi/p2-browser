@@ -33,7 +33,7 @@
   <repositories>
     <repository>
       <id>eclipse</id>
-      <url>http://download.eclipse.org/eclipse/updates/4.15</url>
+      <url>http://download.eclipse.org/eclipse/updates/4.16</url>
       <layout>p2</layout>
     </repository>
   </repositories>
